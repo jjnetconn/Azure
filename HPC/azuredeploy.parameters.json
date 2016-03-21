@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "clusterName": {
-      "value": "atp-pi-hpc"
+      "value": "atphpchn"
     },
     "privateDomainName": {
       "value": "hpc.local"

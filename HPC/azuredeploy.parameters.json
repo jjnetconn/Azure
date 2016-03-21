@@ -22,9 +22,6 @@
     },
     "computeNodeVMSize": {
       "value": "Standard_A8"
-    },
-    "headNodePostConfigScript": {
-      "value": "https://raw.githubusercontent.com/jjnetconn/Azure/master/HPC/HPCHNPostConfig.ps1"
     }
   }
 }

@@ -29,8 +29,8 @@
     "adminPassword": {
       "value": "Atp12345!"
     },
-	"headNodePostConfigScript": {
-	  "value": "https://raw.githubusercontent.com/jjnetconn/Azure/master/HPC/HPCHNPostConfig.ps1"
-	}
+    "headNodePostConfigScript": {
+      "value": "https://raw.githubusercontent.com/jjnetconn/Azure/master/HPC/HPCHNPostConfig.ps1"
+    }
   }
 }

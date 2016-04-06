@@ -1,0 +1,5 @@
+﻿Set-AzureRmVMExtension -ResourceGroupName HPC -VMName CN-000 -Location northeurope -ExtensionName HpcVmDrivers -TypeHandlerVersion 1.1 -Publisher "Microsoft.HpcCompute" -ExtensionType HpcVmDrivers
+Set-AzureRmVMExtension -ResourceGroupName HPC -VMName CN-001 -Location northeurope -ExtensionName HpcVmDrivers -TypeHandlerVersion 1.1 -Publisher "Microsoft.HpcCompute" -ExtensionType HpcVmDrivers
+Set-AzureRmVMExtension -ResourceGroupName HPC -VMName CN-002 -Location northeurope -ExtensionName HpcVmDrivers -TypeHandlerVersion 1.1 -Publisher "Microsoft.HpcCompute" -ExtensionType HpcVmDrivers
+Set-AzureRmVMExtension -ResourceGroupName HPC -VMName CN-003 -Location northeurope -ExtensionName HpcVmDrivers -TypeHandlerVersion 1.1 -Publisher "Microsoft.HpcCompute" -ExtensionType HpcVmDrivers
+Set-AzureRmVMExtension -ResourceGroupName HPC -VMName CN-004 -Location northeurope -ExtensionName HpcVmDrivers -TypeHandlerVersion 1.1 -Publisher "Microsoft.HpcCompute" -ExtensionType HpcVmDrivers

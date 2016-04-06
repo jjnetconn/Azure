@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "clusterName": {
-      "value": "atphpchn"
+      "value": "atphpc"
     },
     "privateDomainName": {
       "value": "hpc.local"
@@ -21,7 +21,13 @@
       "value": 2
     },
     "computeNodeVMSize": {
-      "value": "Standard_A8"
+      "value": "Standard_A3"
+    },
+	"adminUsername": {
+      "value": "admatp"
+    },
+    "adminPassword": {
+      "value": "Atp12345!"
     }
   }
 }
